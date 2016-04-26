@@ -14,3 +14,8 @@
 
 [Consumer Barometer](https://www.consumerbarometer.com/en/)
 
+
+
+## Web Design Resources
+
+
